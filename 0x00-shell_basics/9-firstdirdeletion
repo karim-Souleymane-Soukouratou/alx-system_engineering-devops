@@ -1,2 +1,2 @@
 #!/bim/bash
-rmdir /tmp/my_first_directory
+rmdir /tmp/my_first_directory/
