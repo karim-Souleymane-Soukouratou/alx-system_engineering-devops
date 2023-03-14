@@ -1,2 +1,2 @@
-#!/bin/bashtr -d C,c
-Give feedback
+#!/bin/bash
+tr -d C,c
