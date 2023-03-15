@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Split PATH into an array of directories
+IFS=':' read -ra dirs <<< "$PATH"
+
+# Count the number of directories
+count=${#dirs[@]}
+
+# Print the result
+echo "There are $count directories in the PATH"
+
