@@ -1,2 +1,3 @@
-echo "#!/bin/bash\nprintenv" > list_env_vars.sh && chmod +x list_env_vars.sh
+echo "#!/bin/bash
+\nprintenv" > list_env_vars.sh && chmod +x list_env_vars.sh
 
