@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "#!/bin/bash\nset" > list_vars_funcs.sh  chmod +x list_vars_funcs.sh
